@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suhana-halder7/suhana-halder7/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
